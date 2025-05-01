@@ -35,6 +35,6 @@ USER nextjs
 
 EXPOSE 3012
 
-ENV PORT 3000
+ENV PORT 3012
 
 CMD ["node", "server.js"]
